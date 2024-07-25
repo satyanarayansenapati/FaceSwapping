@@ -1,0 +1,7 @@
+insightface
+glob
+cv2
+Pillow
+torch
+torchvision
+
