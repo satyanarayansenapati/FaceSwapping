@@ -14,7 +14,7 @@ The user needs to pass two images:
 
 NOTE : Target image should have only one face in it
 
-
+NOTE : The model has been removed for security reason
 
 
 __The code can be run on CPU__
